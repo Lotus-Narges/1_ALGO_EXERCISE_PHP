@@ -7,12 +7,12 @@ PHP: Server side programming language
 
 - Working with different data types like string, int, float & ...
 
-_ different operators in php
-* Arithmetic operators (+, -, / , *, %, **)
-* Assignment operators (=, +=, -=, .=, /=)
-* Comparison operators (<, >, >=, <=, ...)
-* Increment/Decrement operators (++, --)
-* Logical operators (||, &&)
+- different operators in php
+_ Arithmetic operators (+, -, / , *, %, **)
+_ Assignment operators (=, +=, -=, .=, /=)
+_ Comparison operators (<, >, >=, <=, ...)
+_ Increment/Decrement operators (++, --)
+_ Logical operators (||, &&)
 
 - Creating variables in php
 
