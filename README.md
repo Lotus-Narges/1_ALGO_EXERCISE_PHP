@@ -8,11 +8,11 @@ PHP: Server side programming language
 - Working with different data types like string, int, float & ...
 
 _ different operators in php
---> Arithmetic operators (+, -, / , *, %, **)
---> Assignment operators (=, +=, -=, .=, /=)
---> Comparison operators (<, >, >=, <=, ...)
---> Increment/Decrement operators (++, --)
---> Logical operators (||, &&)
+* Arithmetic operators (+, -, / , *, %, **)
+* Assignment operators (=, +=, -=, .=, /=)
+* Comparison operators (<, >, >=, <=, ...)
+* Increment/Decrement operators (++, --)
+* Logical operators (||, &&)
 
 - Creating variables in php
 
